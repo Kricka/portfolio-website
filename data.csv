@@ -1,6 +1,6 @@
 title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://pythonhow.com;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/Kricka/todo-app;1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/Kricka/portfolio-website.git;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://pythonhow.com;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
@@ -19,3 +19,4 @@ Student Management System;A desktop PyQt6 GUI app for managing university studen
 School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
 Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
 Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
+Longest word; An app that creates a longest word based om entered letters.;https://github.com/Kricka/longest-word-alphabet;21.png
